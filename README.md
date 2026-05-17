@@ -12,9 +12,9 @@ Open `film_locations_map.html` in any modern browser. No server, build step, or 
 - Hover a pin to see film title, year, and director
 - Click a pin to open its IMDB page in a new tab
 - Live filtering:
-  - **Year** — single year or range; titles with year ranges in the data (e.g. *Cagney & Lacey*, 1982–1988) match on overlap
-  - **Borough** — multi-select
-  - **Neighborhood** — multi-select with All / None shortcuts
+  - **Year** - single year or range; titles with year ranges in the data (e.g. *Cagney & Lacey*, 1982–1988) match on overlap
+  - **Borough** - multi-select
+  - **Neighborhood** - multi-select with All / None shortcuts
 - A live counter shows how many pins match the current filter
 
 ## Regenerate the map
