@@ -4,7 +4,7 @@ An interactive map of 233 film, TV, music video, and commercial shooting locatio
 
 ## View the map
 
-Open `film_locations_map.html` in any modern browser. No server, build step, or install required — everything is self-contained.
+Open `film_locations_map.html` in any modern browser. No server, build step, or install required, everything is self-contained.
 
 ## Features
 
